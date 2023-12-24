@@ -1,7 +1,11 @@
 body {
     display: flex;
     align-items: center;
-    background-image: url("https://thumbor.forbes.com/thumbor/fit-in/x/https://www.forbes.com/home-improvement/wp-content/uploads/2022/09/Anchorage_Alaska.png");
+    
+    background-image: url("https://thumbor.forbes.com/thumbor/fit-in/x/https://www.forbes.com/home-improvement/wp-content/uploads/2022/09/New_York_City_New_York.pngg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center; 
     flex-direction: column;
     flex-wrap: nowrap;
     justify-content: space-around;
