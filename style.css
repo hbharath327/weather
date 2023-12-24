@@ -1,7 +1,7 @@
 body {
     display: flex;
     align-items: center;
-    background-color: #FFFFFF;
+    background-image: url("https://thumbor.forbes.com/thumbor/fit-in/x/https://www.forbes.com/home-improvement/wp-content/uploads/2022/09/Anchorage_Alaska.png");
     flex-direction: column;
     flex-wrap: nowrap;
     justify-content: space-around;
